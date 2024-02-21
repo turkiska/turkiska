@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yağız
 - 👀 I’m interested in Coding, typical.
-- 🌱 I’m currently learning VBS. 
 - 📫 How to reach me flashyagiz35@gmail.com
-- ⚡ Fun fact: I made Canis Linux
+- ⚡ Fun fact: I made Canis Linux and YUnix
 - Canis Linux: www.canislinux.blogspot.com
-  
+- YUnix: www.yunixfoss.blogspot.com
